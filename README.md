@@ -89,7 +89,7 @@ Quick Start
 
 Clone the repository
 
-bashgit clone https://github.com/your-username/your-repo-name.git
+bashgit clone https://github.com/ghanashyamgawas/PORTFOLIO.git
 cd your-repo-name
 
 Open in browser
