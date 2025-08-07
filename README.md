@@ -146,10 +146,7 @@ portfolio/
 🚀 Deployment
 GitHub Pages (Current)
 
-Push code to GitHub repository
-Go to Settings → Pages
-Select source branch (main)
-Site will be live at https://username.github.io/repository-name
+
 
 Alternative Hosting Options
 
